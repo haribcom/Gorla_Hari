@@ -1,3 +1,5 @@
 Hari python developer
 Django framework
 Mysql
+Html
+css
